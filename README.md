@@ -145,12 +145,6 @@ If you use this pipeline, please cite:
    Frontiers in Neuroimaging, 1:1070151.
    ```
 
-2. The dataset:
-   ```
-   Lepping, R. J., et al. (2016). Neural Processing of Emotional Musical and 
-   Nonmusical Stimuli in Depression. PLoS ONE, 11(6), e0156859.
-   ```
-
 ## Notes
 
 - This pipeline is optimized for MVPA/searchlight analyses
